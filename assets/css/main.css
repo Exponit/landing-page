@@ -79,6 +79,11 @@ a:hover {
   text-decoration: none;
 }
 
+.hero-text{
+  display: inline
+  !important;
+}
+
 h1,
 h2,
 h3,
